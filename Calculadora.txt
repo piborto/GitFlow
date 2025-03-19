@@ -1,1 +1,2 @@
 Declarações de variáveis
+Leitura de dados
