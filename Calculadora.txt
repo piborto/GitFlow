@@ -1,3 +1,4 @@
-Declarações de variáveis
-Leitura de entradas do programa
-criação da função soma
+Declarações de variáveis - testes OK
+Leitura de entradas do programa- testes OK
+criação da função soma- testes OK
+
